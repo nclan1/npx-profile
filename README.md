@@ -1,13 +1,14 @@
 # interactive command line business card
 
-## overview
-
 this project creates an interactive command-line business card that details a little about the person and their interests
 
 ## features
 
 - displays personalized information, including name, GitHub profile, email, and npm card.
 - utilizes terminal styling and interactive prompts
+
+if you have node and npm installed on your machine, just open up terminal and run
+`npx no1an`
 
 ## dependencies
 
